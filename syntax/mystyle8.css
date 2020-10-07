@@ -1,0 +1,32 @@
+body{
+	background-image: url(../images/tree.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	margin-right: 200px;
+	background-attachment: scroll;
+}
+.h1 {
+	background-color: green;
+}
+.div {
+	background-color: lightblue;
+}
+.p {
+	background-color: yellow;
+}
+.bg2{
+	background-image: url(../images/paper.png);
+}
+.bg3{
+	background-image: url(../images/paper.png);
+	background-repeat: repeat-x;
+}
+.bg4{
+	background-image: url(../images/paper.png);
+	background-repeat: repeat-y;
+}
+.bg5{
+ 	background-image: url(../images/tree.png);
+ 	background-repeat: no-repeat;
+ 	background-position: right top;
+ }
